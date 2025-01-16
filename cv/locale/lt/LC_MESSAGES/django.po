@@ -1,0 +1,99 @@
+#  Translators: Please add the header entry
+#  Charset specification for the file
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-09 10:07+0200\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\cv\models.py:7
+msgid "Homepage Content"
+msgstr "Homepage Content"
+
+#: .\cv\models.py:19
+msgid "Titulinis"
+msgstr ""
+
+#: .\cv\models.py:20
+msgid "Aprašymas"
+msgstr ""
+
+#: .\cv\templates\contacts.html:136
+msgid ""
+"Try your luck and skills in the game 'Rock, Paper, Scissors' – win and get "
+"contact details!"
+msgstr ""
+"Išbandykite savo sėkmę ir įgūdžius žaidime 'Rock, Paper, Scissors' – "
+"laimėkite ir gaukite kontaktinius duomenis!"
+
+#: .\cv\templates\contacts.html:139
+msgid "Choose"
+msgstr "Pasirinkite"
+
+#: .\cv\templates\contacts.html:145
+msgid "Play"
+msgstr "Žaisti"
+
+#: .\cv\templates\contacts.html:148
+msgid "Your choice"
+msgstr "Jūsų pasirinkimas"
+
+#: .\cv\templates\contacts.html:149
+msgid "Computer choice"
+msgstr "Kompiuterio pasirinkimas"
+
+#: .\cv\templates\contacts.html:150
+msgid "Result"
+msgstr "Rezultatas"
+
+#: .\cv\templates\contacts.html:156 .\cv\templates\experience.html:119
+#: .\cv\templates\hobbys.html:151
+msgid "HomePage"
+msgstr "Namai"
+
+#: .\cv\templates\contacts.html:158 .\cv\templates\hobbys.html:152
+#: .\cv\templates\homepage.html:130
+msgid "Experience"
+msgstr "Patirtis"
+
+#: .\cv\templates\contacts.html:160 .\cv\templates\experience.html:121
+#: .\cv\templates\homepage.html:132
+msgid "Hobbies"
+msgstr "Hobiai"
+
+#: .\cv\templates\experience.html:123 .\cv\templates\hobbys.html:153
+msgid "Contacts"
+msgstr "Kontaktai"
+
+#: .\cv\templates\experience.html:149
+msgid "Hours"
+msgstr "Valandų"
+
+#: .\cv\templates\homepage.html:134
+msgid "Contact Me !"
+msgstr "Susisiekite su manimi!"
+
+#: .\cv\templates\homepage.html:136
+msgid "Download CV.PDF"
+msgstr "Atsisiųsti CV.PDF"
+
+#: .\cv\views.py:35
+msgid "Draw!"
+msgstr "Lygesios!"
+
+#: .\cv\views.py:39
+msgid ""
+"You win! Contact number +37060631795 , email - DeividasBaliutis@gmail.com"
+msgstr ""
+"Jūs laimėjote! Kontaktinis numeris +37060631795, el. paštas - "
+"DeividasBaliutis@gmail.com"
+
+#: .\cv\views.py:41
+msgid "Computer wins!"
+msgstr "Kompiuteris laimėjo!"
+
+#~ msgid "Description"
+#~ msgstr "Aprasymas"
+
+
